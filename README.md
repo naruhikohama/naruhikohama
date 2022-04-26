@@ -1,8 +1,10 @@
 ### Hi there! My name is Naruhiko!
 
-- 🔭 I’m currently working on people analytics (HR + data science) with R and python
+- 🔭 I’m currently working on people analytics (data analytics applied to Human Resources) with R and python
 - 🌱 I’m currently learning google cloud tools
-- 📫 You can find me on LinkedIn: &nbsp; <a href="https://www.linkedin.com/in/naruhiko/" target = "_blank"> <img src="https://www.svgrepo.com/show/157006/linkedin.svg" target="_blank" alt='naruhiko' height='17' style='margin-bottom=-3px'> &nbsp; naruhiko</a>
+- 📫 You can find me on LinkedIn: &nbsp; <a href="https://www.linkedin.com/in/naruhiko/" target = "_blank"> <img src="https://www.svgrepo.com/show/157006/linkedin.svg" target="_blank" alt='naruhiko-lkd' height='17' style='margin-bottom=-3px'> &nbsp; naruhiko</a>
+
+
 
 ##
 <br>
