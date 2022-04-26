@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on people analytics (HR + data science) with R and python
 - 🌱 I’m currently learning google cloud tools
+- 📫 You can find me on LinkedIn: <a href="https://www.linkedin.com/in/naruhiko/" target = "_blank"> <img src="https://www.svgrepo.com/show/157006/linkedin.svg" target="_blank" alt='naruhiko' height='17' style='margin-bottom=-3px'>naruhiko</a>
 
 ##
 <br>
