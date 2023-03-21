@@ -1,10 +1,10 @@
 ### Hi there! My name is Naruhiko!
 
-- 🔭 I’m currently working on people analytics (data analytics applied to Human Resources) with R and python
-- 🌱 I’m currently learning cloud tools, such as Apache Airflow and Docker, especially on google cloud
+- 🔭 I’m currently working models running on Databricks (Azure)
+- 🌱 I’m currently studying and applying on my job tools about data pipelines, such as Airflow, Spark and Docker
 - 📫 The best way for you to get in touch with me is on LinkedIn: &nbsp; <a href="https://www.linkedin.com/in/naruhiko/" target = "_blank"> <img src="https://www.svgrepo.com/show/157006/linkedin.svg" target="_blank" alt='naruhiko-lkd' height='17' style='margin-bottom=-3px'> &nbsp; naruhiko</a>
 
-I love to learn new things. Although I'm focused on adhoc data science projects, bulding data science products is something that I have been looking forward to learn more. So learn more about google cloud (or any other service cloud provider) is a must for this. And that's the point I am today: studying more about python, javascript, mysql and cloud tools. 
+I love to learn new things. Although I'm focused on adhoc data science projects, bulding data science products is something that I have been looking forward to learn. So learning more about google cloud (or any other service cloud provider) is a must for this. And that's the point I am today: studying more about python, javascript, sql and cloud tools. 
 
 I also like to read a lot about new things in the world of tech and data visualization. In the near future, I intend to start writing about the things I work with. When I start, I will leave a link here.
 
