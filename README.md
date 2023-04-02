@@ -1,7 +1,7 @@
 ### Hi there! My name is Naruhiko!
 
-- 🔭 I’m currently working models running on Databricks (Azure)
-- 🌱 I’m currently studying and applying on my job tools about data pipelines, such as Airflow, Spark and Docker
+- 🔭 I’m currently working on production models running on Databricks (Azure)
+- 🌱 I like to study about data science and technology. On my job, I use tools for (big) data pipelines, such as Airflow, Spark and Docker
 - 📫 The best way for you to get in touch with me is on LinkedIn: &nbsp; <a href="https://www.linkedin.com/in/naruhiko/" target = "_blank"> <img src="https://www.svgrepo.com/show/157006/linkedin.svg" target="_blank" alt='naruhiko-lkd' height='17' style='margin-bottom=-3px'> &nbsp; naruhiko</a>
 
 I love to learn new things. Although I'm focused on adhoc data science projects, bulding data science products is something that I have been looking forward to learn. So learning more about google cloud (or any other service cloud provider) is a must for this. And that's the point I am today: studying more about python, javascript, sql and cloud tools. 
