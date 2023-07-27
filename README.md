@@ -15,12 +15,7 @@ I will gladly reply you as soon as I can.
 Happy code for all of us! 🤖
 ##
 <br>
-<div align="center">
-  <a href="https://github.com/naruhikohama">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=naruhikohama&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naruhikohama&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
-  
+ 
 <div align="center">
   <a href="https://github.com/naruhikohama">
   <img height="170em" src="http://github-readme-streak-stats.herokuapp.com?user=naruhikohama&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
