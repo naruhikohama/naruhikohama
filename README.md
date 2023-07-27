@@ -15,6 +15,11 @@ I will gladly reply you as soon as I can.
 Happy code for all of us! 🤖
 ##
 <br>
+
+<div align="center">
+  <a href="https://github.com/naruhikohama">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naruhikohama&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
  
 <div align="center">
   <a href="https://github.com/naruhikohama">
