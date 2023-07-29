@@ -36,4 +36,3 @@ Happy code for all of us! 🤖
 </div>
 
 ##
-![Snake animation](https://github.com/naruhikohama/naruhikohama/blob/output/github-snake-dark.svg)
