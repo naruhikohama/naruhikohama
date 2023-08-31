@@ -1,4 +1,4 @@
-### Hi there! My name is Naruhiko
+### Hi there! My name is Naruhiko! 
 
 - 🔭 I’m currently working on production models running on Databricks (Azure)
 - 🌱 I like to study about data science and technology. On my job, I use tools for (big) data pipelines, such as Airflow, Spark and Docker
