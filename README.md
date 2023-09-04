@@ -1,6 +1,6 @@
 ### Hi there! My name is Naruhiko! 
 
-- 🔭 I’m currently working on production models running on Databricks (Azure)
+- 🔭 I’m currently working on production models running on Databricks (Azure) and delta lake structures on GCP
 - 🌱 I like to study about data science and technology. On my job, I use tools for (big) data pipelines, such as Airflow, Spark and Docker
 - 📫 The best way for you to get in touch with me is on LinkedIn: &nbsp; <a href="https://www.linkedin.com/in/naruhiko/" target = "_blank"> <img src="https://www.svgrepo.com/show/157006/linkedin.svg" target="_blank" alt='naruhiko-lkd' height='17' style='margin-bottom=-3px'> &nbsp; naruhiko</a>
 
